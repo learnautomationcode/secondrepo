@@ -19,6 +19,7 @@ public class TestDemo {
 		}
 		System.out.println(count);
 
+System.out.println(count);
 	}
 
 }
